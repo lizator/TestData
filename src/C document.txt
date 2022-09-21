@@ -1,5 +1,8 @@
-Alice - 2
+Alice - 5 lines, 1 in one commit, 4 in another
 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce mattis eleifend sem, at.
+Change
+Change
+Change
 
