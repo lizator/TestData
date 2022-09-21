@@ -1,6 +1,6 @@
 Alice - 8
 Anders - 4
-
+Betty - 1
 
 This repo is made for test purposes
 All files have lines in them

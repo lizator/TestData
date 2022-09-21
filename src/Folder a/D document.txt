@@ -1,7 +1,7 @@
 # Alice - 10
 # Anders - 2
-
-
+# Betty - 2
+import sys
 
 def test(self):
 	t = 0
