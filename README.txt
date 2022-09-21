@@ -1,5 +1,5 @@
-Alice - 10
-Anders - 2
+Alice - 8
+Anders - 4
 
 
 This repo is made for test purposes

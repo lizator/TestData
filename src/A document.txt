@@ -1,5 +1,5 @@
-alice - 11 lines
-
+Alice - 6 lines
+Anders - 6
 
 
 
@@ -7,13 +7,13 @@ alice - 11 lines
 
 This is a document
 i am writing stuff in it
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce mattis eleifend sem, at.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce mattis eleifend sem, at.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce mattis eleifend sem, at. Anders
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce mattis eleifend sem, at. Anders
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce mattis eleifend sem, at.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce mattis eleifend sem, at.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce mattis eleifend sem, at.
-
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce mattis eleifend sem, at. Anders
+ Anders
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce mattis eleifend sem, at.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce mattis eleifend sem, at.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce mattis eleifend sem, at.

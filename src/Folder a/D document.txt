@@ -1,4 +1,6 @@
 # Alice - 10
+# Anders - 2
+
 
 
 def test(self):
@@ -9,5 +11,5 @@ def test(self):
 	while t > 0:
 		t -= 1
 		print (t)
-
+test() # Anders
 test()
