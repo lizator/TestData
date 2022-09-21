@@ -1,0 +1,13 @@
+# Alice - 10
+
+
+def test(self):
+	t = 0
+	while t < 10:
+		t += 1
+		print(t)
+	while t > 0:
+		t -= 1
+		print (t)
+
+test()
