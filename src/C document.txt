@@ -1,8 +1,16 @@
 Alice - 5 lines, 1 in one commit, 4 in another
 Anders - 17 lines
+BOB - 10
 
-
-
+BOB
+BOB
+BOB
+5 BOB
+BOB
+BOB
+BOB
+BOB
+10 BOB
 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce mattis eleifend sem, at.

@@ -1,6 +1,36 @@
 Betty - 2 lines
+BOB - 32 lines
 
-
-
+BOB
+BOB
+BOB
+5 BOB
+BOB
+BOB
+BOB
+BOB
+10 BOB
+BOB
+BOB
+BOB
+BOB
+15 BOB
+BOB
+BOB
+BOB
+BOB
+20 BOB
+BOB
+BOB
+BOB
+BOB
+25 BOB
+BOB
+BOB
+BOB
+BOB
+30 BOB
+BOB
+BOB
 
 Anders is the worst
